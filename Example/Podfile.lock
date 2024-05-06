@@ -1,0 +1,16 @@
+PODS:
+  - JSONCodableType (0.1.0)
+
+DEPENDENCIES:
+  - JSONCodableType (from `../`)
+
+EXTERNAL SOURCES:
+  JSONCodableType:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JSONCodableType: a6ec44a9c7953818ab777a93dc9e4720cd166ffc
+
+PODFILE CHECKSUM: 04fbdb2b4e6d50ec846627ad3d47f64f1dda6650
+
+COCOAPODS: 1.15.2

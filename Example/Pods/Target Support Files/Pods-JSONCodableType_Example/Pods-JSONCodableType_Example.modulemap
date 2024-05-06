@@ -1,0 +1,6 @@
+framework module Pods_JSONCodableType_Example {
+  umbrella header "Pods-JSONCodableType_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
