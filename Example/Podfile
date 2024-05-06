@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JSONCodableType_Example' do
+  pod 'JSONCodableType', :path => '../'
+
+  target 'JSONCodableType_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
